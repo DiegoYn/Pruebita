@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "conexiones.h": "c",
+        "cpu.h": "c",
+        "inicializar_servidor_cpu.h": "c",
+        "inicializar_cpu.h": "c",
+        "list.h": "c",
+        "log.h": "c",
+        "kernel.h": "c",
+        "inicializar_kernel.h": "c",
+        "k_variables_globales.h": "c",
+        "txt.h": "c",
+        "m_variables_globales.h": "c"
+    }
+}
